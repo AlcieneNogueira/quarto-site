@@ -33,6 +33,8 @@ nav a:hover {
     color: blue;
 }
 
+
+/*serve para deixar o main no meio da página*/
 main {
     width: 80%; /* Defina a largura do main como desejado */
     margin: 0 auto; /* Margens automáticas para alinhar horizontalmente */
